@@ -1,6 +1,6 @@
 # Vanguard-SniperArena-Rbx
 
-VANGUARD v5.8 - Universal Combat Diagnostic Suite
+VANGUARD v5.8 - Cheat created with AI*
 🎯 AIMBOT
 Advanced Targeting - Closest-to-crosshair, closest-to-player, or lowest-health targeting modes
 
